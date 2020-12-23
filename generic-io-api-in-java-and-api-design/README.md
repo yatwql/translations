@@ -1,4 +1,4 @@
-原文链接：[A generic input/output API in Java](https://dzone.com/articles/generic-inputoutput-api-java) - _Rickard Öberg_ （PS：[文章原始链路](http://www.jroller.com/rickard/entry/a_generic_input_output_api)已失效）  
+原文链接：[A generic input/output API in Java](https://dzone.com/articles/generic-inputoutput-api-java) - _Rickard Öberg_ （PS：[文章原始链接](http://www.jroller.com/rickard/entry/a_generic_input_output_api)已失效）  
 译文发在：[【译】Java的通用I/O API](http://oldratlee.com/474/tech/java/generic-io-api-in-java-and-api-design.html)，2012-05-11
 
 ## 🍎 译序
@@ -10,7 +10,7 @@
 
 设计偏向是艺术，一个赏心悦目的设计，尤其是`API`设计，旁人看来多是妙手偶得的感觉，如果能有些章可循真是一件美事。
 
-给出 _**减少艺术的艺术工作量**_ 的方法的人是 **大师**。 ❤️
+在艺术工作中，真的艺术性工作量也只是一部分，而给出 _**方法**_ 以 _**减少艺术工作之中艺术性工作量**_ 的人是 **大师**。 ❤️
 
 # `Java`的通用`I/O` `API`设计
 
